@@ -3,5 +3,5 @@
 
 # intall and run
 ```
-$ pkg install python && pkg update python && pkg install git && git clone https://github.com/RozhBasXYZ/QRIS && cd QRIS && git pull && python bot_qris.py
+pkg install python && pkg update python && pkg install git && git clone https://github.com/RozhBasXYZ/QRIS && cd QRIS && git pull && python bot_qris.py
 ```
